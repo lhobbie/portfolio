@@ -27,6 +27,5 @@ BS in Comprehensive Science, Minor in Statistics (Expected Dec 2026)
 GPA: 3.92/4.00 | Dean's List All Semesters
 
 # Contact
-
 Email: lhobbs2023@gmail.com
 LinkedIn: linkedin.com/in/luke-hobbie
