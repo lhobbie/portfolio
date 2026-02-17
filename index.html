@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Luke Hobbie - Professional Profile</title>
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='0.9em' font-size='90' fill='%2300205b'%3EV%3C/text%3E%3C/svg%3E">
     <style>
         * {
             margin: 0;
@@ -78,9 +79,16 @@
         
         .home-page .headline {
             font-size: 1.5em;
-            margin-bottom: 40px;
+            margin-bottom: 15px;
             font-weight: 300;
             max-width: 700px;
+        }
+        
+        .credentials {
+            font-size: 1.1em;
+            font-style: italic;
+            margin-bottom: 35px;
+            color: rgba(255, 255, 255, 0.9);
         }
         
         .home-links {
@@ -105,6 +113,23 @@
         .home-links a:hover {
             transform: translateY(-3px);
             box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        }
+        
+        .contact-info {
+            margin-top: 40px;
+            font-size: 1.1em;
+            color: white;
+        }
+        
+        .contact-info a {
+            color: white;
+            text-decoration: none;
+            border-bottom: 2px solid rgba(255,255,255,0.5);
+            transition: border-color 0.3s;
+        }
+        
+        .contact-info a:hover {
+            border-bottom-color: white;
         }
         
         /* Content Pages */
@@ -269,9 +294,14 @@
         <div id="home" class="home-page active">
             <h1>Luke Hobbie</h1>
             <p class="headline">Villanova University | Analytics & Statistics | Turning Data into Insight</p>
+            <p class="credentials">3.92 GPA | Dean's List All Semesters</p>
             
             <div class="home-links">
                 <a href="https://www.linkedin.com/in/luke-hobbie/" target="_blank">LinkedIn</a>
+            </div>
+            
+            <div class="contact-info">
+                <p>Contact: <a href="mailto:lhobbs2023@gmail.com">lhobbs2023@gmail.com</a></p>
             </div>
         </div>
         
@@ -291,7 +321,7 @@
                 
                 <div class="education-item">
                     <div class="item-subtitle">BS in Comprehensive Science, Minor: Statistics</div>
-                    <div class="item-date">Expected Graduation: December 2026 | Dean's List | <span class="gpa">GPA: 3.92/4.00</span></div>
+                    <div class="item-date">Expected Graduation: December 2026 | Dean's List (All Semesters) | <span class="gpa">GPA: 3.92/4.00</span></div>
                     <p style="margin-top: 10px;"><strong>Selected Courses:</strong> Applied Statistical Models, Multivariable Calculus, Advanced Physics/Chemistry/Biology</p>
                 </div>
             </section>
