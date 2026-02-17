@@ -2,7 +2,7 @@
 
 Professional portfolio website showcasing data analytics projects and technical skills.
 
-# Live Site: https://lhobbs2023-wq.github.io/portfolio/
+# Live Site: https://lhobbie.github.io/portfolio/#
 # About
 
 I'm a statistics and data science student at Villanova University with a passion for turning complex data into actionable insights. This portfolio demonstrates my analytical capabilities through real-world projects using R, SAS, and SQL.
