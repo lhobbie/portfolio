@@ -1,6 +1,5 @@
-# portfolio
-Professional portfolio showcasing data analytics projects
-Luke Hobbie - Data Analytics Portfolio
+# Luke Hobbie - Data Analytics Portfolio
+
 Professional portfolio website showcasing data analytics projects and technical skills.
 Live Site: https://lhobbs2023-wq.github.io/portfolio/
 About
